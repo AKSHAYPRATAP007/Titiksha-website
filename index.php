@@ -135,7 +135,19 @@
           </div>
         </div>
 
+        <div class="page-header">
+          <h1>Our Previous Sponsors</h1>
+          
+        </div>
+
+        <div class="row">
+          <div class="span16 icons sponsor-list">
+              <?php get_prev_sponsors_list(); ?>
+          </div>
+        </div>
+
       </section>
+
 
 
       <footer>

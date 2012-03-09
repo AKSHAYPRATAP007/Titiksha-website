@@ -458,6 +458,7 @@ h1 small {
 h2 {
   font-size: 24px;
   line-height: 36px;
+  color: #000000;
 }
 h2 small {
   font-size: 14px;
@@ -624,10 +625,10 @@ pre {
   word-wrap: break-word;
 }
 a {
-  color: #0069d6;
+  color: white;
 }
 a:visited {
-  color: #551a8b;
+  color: #c93674;
 }
 a:hover {
   color: #00438a;

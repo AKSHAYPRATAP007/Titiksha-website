@@ -1,5 +1,5 @@
 .hero-unit{
-	padding-top: 87px;
+	padding-top: 100px;
 	/*background: url('../img/banner-top.jpg') #000 ;
 	color: #fff;*/
   background-color: transparent;
@@ -9,7 +9,7 @@
 	color: #fff;
 	font-size: 42px;
 	font-weight: normal;
-  text-shadow: #000 1px 2px 9px;
+  text-shadow: #000 1px 22px 9px;
 
 }
 
@@ -23,10 +23,10 @@ body{
 
 #countdown-header {
   position: absolute;
-  top: 87px;
+  top: 100px;
   right: 200px;
   width: 200px;
-  color: black;
+  color: white;
 }
 
 /* jQuery Countdown styles 1.5.11. */
@@ -72,6 +72,7 @@ body{
   float: left;
   font-size: 75%;
   text-align: center;
+  text-shadow: 2px 15px 9px #000000;
 }
 .countdown_amount {
   font-size: 200%;
@@ -96,7 +97,7 @@ p#lifestream {
 
 #lifestream a {
   /* color: #f6dd97;*/
-  colour: #1E90FF; 
+  colour: black; 
   text-decoration: none;
 }
 
